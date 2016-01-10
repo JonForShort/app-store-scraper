@@ -1,5 +1,12 @@
+# Ignore gradle temp files
 .gradle
+
+# Ignore build output
 build/
+
+# Ignore intellij
+*.iml
+.idea
 
 # Ignore Gradle GUI config
 gradle-app.setting
